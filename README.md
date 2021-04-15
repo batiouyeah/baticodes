@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @baticodes
+- 👀 I’m interested in everything but Bootstrap
+- 🌱 I’m currently learning ThreeJS
+- 💞️ I’m looking to collaborate on a project related with Web Components
